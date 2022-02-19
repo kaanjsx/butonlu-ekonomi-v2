@@ -1,7 +1,7 @@
 # :ghost: Ghost Development Butonlu Ekonomi Botu v2.0.1
 
 - Altyapıyı izinsiz kullanmak yasaktır.
-- Discord Sunucusu: https://discord.gg/d2yUfrh8XM
+- Discord Sunucusu: https://discord.gg/developers
 - YouTube Kanalım: https://youtube.com/c/kaanxd
 
 ![image](https://user-images.githubusercontent.com/83782358/151340559-2de44ad4-0bee-49f7-9756-0d5c5f9c3fe4.png)
